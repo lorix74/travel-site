@@ -1,2 +1,5 @@
 import '../styles/styles.css'
-//alert("uussssssssssssssssssssssssssssssssssuuh");
+
+if (module.hot) {
+    module.hot.accept()
+}
