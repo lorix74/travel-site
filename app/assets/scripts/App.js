@@ -1,1 +1,2 @@
-alert("uussssssssssssssssssssssssssssssssssuuh");
+import '../styles/styles.css'
+//alert("uussssssssssssssssssssssssssssssssssuuh");
